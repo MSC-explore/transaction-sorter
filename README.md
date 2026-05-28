@@ -2,6 +2,8 @@
 
 A Python tool that parses USAA bank statement PDFs, identifies recurring transactions, and exports the results to Excel.
 
+![Transaction Sorter screenshot](Transaction_Sorter.png)
+
 ## Generating the PDF
 
 This tool works with USAA's checking or savings account transaction pages. To get a usable PDF:
